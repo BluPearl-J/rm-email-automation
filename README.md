@@ -13,3 +13,7 @@ Sends personalised email sequences, flags overdue contacts, and delivers daily d
 
 ## Built with
 Google Sheets · Apps Script · Gmail API · Google Calendar API
+
+## Live Demo
+View the live CRM sheet here: (https://docs.google.com/spreadsheets/d/1FII3PejhIR2mEY15Tp08GKPFv-vnnEfsreYMN837pUI/edit?usp=sharing)
+
